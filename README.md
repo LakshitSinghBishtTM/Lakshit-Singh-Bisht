@@ -55,7 +55,7 @@ All projects are mirrored across the following Git forges to avoid dependency on
 - **[CoreAI-Protocol-Suite](https://github.com/LakshitSinghBishtTM/CoreAI-Protocol-Suite)**  
   Enterprise-grade LLM routing and agent orchestration framework for production AI systems.
 
-- **[roXac](https://github.com/LakshitSinghBishtTM/roXac)**
+- **[roXac](https://github.com/LakshitSinghBishtTM/roXac)**  
   A simple CLI calculator with post-quantum encrypted history.
  
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
@@ -73,11 +73,13 @@ All projects are mirrored across the following Git forges to avoid dependency on
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LakshitSinghBishtTM&color=blue)
 
 ---
+
+## Accounts 
 
 <p>
 <a href="https://orcid.org/0009-0004-0035-5714"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
@@ -91,12 +93,13 @@ All projects are mirrored across the following Git forges to avoid dependency on
 <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht"><img src="https://img.shields.io/badge/Math%20StackExchange-005C9C?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://medium.com/@lakshitsinghbishttm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/User:LakshitSinghBishtTM"><img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
+<br>
 <a href="https://leetcode.com/u/LakshitSinghBishtTM"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
 
-### Contact
+## Contact
 
 <p>
 <a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
