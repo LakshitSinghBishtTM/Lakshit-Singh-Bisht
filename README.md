@@ -37,7 +37,6 @@ All projects are mirrored across the following Git forges to avoid dependency on
 - Gitlab: https://gitlab.com/lakshitsinghbishttm
 - Codeberg: https://codeberg.org/lakshitsinghbishttm
 - Bitbucket: https://bitbucket.org/lakshitsinghbishttm
-- Gitea: https://gitea.com/LakshitSinghBishtTM
 - Sourceforge: https://sourceforge.net/u/lakshitsbishttm
 
 ---
@@ -55,7 +54,10 @@ All projects are mirrored across the following Git forges to avoid dependency on
 
 - **[CoreAI-Protocol-Suite](https://github.com/LakshitSinghBishtTM/CoreAI-Protocol-Suite)**  
   Enterprise-grade LLM routing and agent orchestration framework for production AI systems.
-  
+
+- **[roXac](https://github.com/LakshitSinghBishtTM/roXac)**
+  A simple CLI calculator with post-quantum encrypted history.
+ 
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client.
 
@@ -63,10 +65,10 @@ All projects are mirrored across the following Git forges to avoid dependency on
 
 ## Technical Skills
 
+- **Systems**: Linux (Debian, Arch), Unix-like (FreeBSD), Tails OS
+- **Tools**: Git, Tor
 - **Programming**: Python, R, SQL
 - **Mathematical Tools**: MATLAB, Simulink, Lean 4
-- **Systems**: Linux (Debian, Arch), Tails OS, IBM z/OS
-- **Tools**: Git, Docker
 - **Typesetting**: LaTeX
 
 ---
@@ -89,6 +91,7 @@ All projects are mirrored across the following Git forges to avoid dependency on
 <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht"><img src="https://img.shields.io/badge/Math%20StackExchange-005C9C?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://medium.com/@lakshitsinghbishttm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/User:LakshitSinghBishtTM"><img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
+<a href="https://leetcode.com/u/LakshitSinghBishtTM"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
