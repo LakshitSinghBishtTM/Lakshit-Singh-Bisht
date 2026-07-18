@@ -30,14 +30,16 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 ---
 
-## Forges
+## Distribution
 
-All projects are mirrored across the following Git forges to avoid dependency on any single platform and to reduce single points of failure.
+All projects are mirrored across the following Git forges to avoid dependence on any single platform and to reduce single points of failure.
 
-- Gitlab: https://gitlab.com/lakshitsinghbishttm
+- GitLab: https://gitlab.com/lakshitsinghbishttm
 - Codeberg: https://codeberg.org/lakshitsinghbishttm
 - Bitbucket: https://bitbucket.org/lakshitsinghbishttm
-- Sourceforge: https://sourceforge.net/u/lakshitsbishttm
+- SourceForge: https://sourceforge.net/u/lakshitsbishttm
+
+Projects can also be distributed physically on USB flash drives, SD cards, microSD cards, CDs, DVDs, and other removable storage media upon individual request. For physical distribution, the cost of the storage medium and shipping is charged.
 
 ---
 
