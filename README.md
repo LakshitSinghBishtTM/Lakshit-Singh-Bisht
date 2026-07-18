@@ -39,7 +39,7 @@ All projects are mirrored across the following Git forges to avoid dependence on
 - Bitbucket: https://bitbucket.org/lakshitsinghbishttm
 - SourceForge: https://sourceforge.net/u/lakshitsbishttm
 
-Projects are also distributed physically on USB flash drives, SD cards, microSD cards, CDs, DVDs, and other removable storage media upon individual request. For physical distribution, the cost of the storage medium and shipping is charged.
+Projects are also distributed physically on USB flash drives, SD cards, microSD cards, CDs, DVDs, and other removable storage media. Printed copies of project source code are also available upon individual request. For physical distribution, only the cost of the storage medium, printing (where applicable), and shipping is charged.
 
 ---
 
